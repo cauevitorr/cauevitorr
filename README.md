@@ -1,4 +1,4 @@
-## Olá! Eu sou Cauê Vitor
+## Olá! sou o Cauê Vitor
 - 🔭 I’m currently working on Front-End and Back-End
 - 🌱 I’m currently learning React
 
@@ -13,6 +13,14 @@
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+##
+
+<div> 
+
+![Snake animation](https://github.com/cauevitorr/cauevitorr/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <!---
