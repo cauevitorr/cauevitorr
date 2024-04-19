@@ -1,6 +1,6 @@
 ## Olá! sou o Cauê Vitor
 - 🔭 I’m currently working on Front-End and Back-End
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and NodeJS
 
 <div align="center">
   <a href="https://github.com/cauevitorr">
