@@ -1,4 +1,4 @@
-## Olá! Sou Cauê Vitor
+## Hello! I'm Cauê Vitor
 - 🔭 I’m currently working on Front-End and Back-End
 - 🌱 I’m currently learning React and NodeJS
 
